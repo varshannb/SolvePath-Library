@@ -1,0 +1,22 @@
+Metadata-Version: 2.4
+Name: solvepath
+Version: 1.0.0
+Summary: A math library that provides step-by-step explanations for calculations.
+Author-email: Your Name <your.email@example.com>
+License: MIT
+Project-URL: Homepage, https://example.com/solvepath
+Project-URL: Source, https://example.com/solvepath/source
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# SolvePath
+
+SolvePath is a custom Python math library that performs calculations and can return step-by-step explanations using `show_steps=True`.
+
+## Install
+pip install .
+
+## Usage
+from solvepath import comb
+comb(5, 3)
+comb(5, 3, show_steps=True)

@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+solvepath/__init__.py
+solvepath/solvepath.py
+solvepath.egg-info/PKG-INFO
+solvepath.egg-info/SOURCES.txt
+solvepath.egg-info/dependency_links.txt
+solvepath.egg-info/top_level.txt
